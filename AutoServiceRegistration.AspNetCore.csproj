@@ -9,6 +9,8 @@
     <Authors>Ruyut</Authors>
     <Company>Ruyut</Company>
     <Product>AutoServiceRegistration.AspNetCore</Product>
+    <RepositoryUrl>https://github.com/ruyut/AutoServiceRegistration.AspNetCore.git</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
   </PropertyGroup>
 
   <ItemGroup>
