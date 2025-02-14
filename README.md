@@ -1,6 +1,6 @@
 # AspNetCore.AutoServiceRegistration
 
-![NuGet Version](https://img.shields.io/nuget/v/AutoServiceRegistration.AspNetCore)
+[![NuGet version (AutoServiceRegistration.AspNetCore)](https://img.shields.io/nuget/v/AutoServiceRegistration.AspNetCore)](https://www.nuget.org/packages/AutoServiceRegistration.AspNetCore)
 
 ## Overview
 
