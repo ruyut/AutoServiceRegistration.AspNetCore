@@ -1,6 +1,7 @@
 # AspNetCore.AutoServiceRegistration
 
 [![NuGet version (AutoServiceRegistration.AspNetCore)](https://img.shields.io/nuget/v/AutoServiceRegistration.AspNetCore)](https://www.nuget.org/packages/AutoServiceRegistration.AspNetCore)
+[![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/ruyut/AutoServiceRegistration.AspNetCore/publish.yml)](https://github.com/ruyut/AutoServiceRegistration.AspNetCore/actions/workflows/publish.yml)
 
 ## Overview
 
