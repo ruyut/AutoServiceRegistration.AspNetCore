@@ -1,5 +1,7 @@
 # AspNetCore.AutoServiceRegistration
 
+![NuGet Version](https://img.shields.io/nuget/v/AutoServiceRegistration.AspNetCore)
+
 ## Overview
 
 AspNetCore.AutoServiceRegistration is a library for automatically registering services in ASP.NET Core applications.
