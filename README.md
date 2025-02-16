@@ -22,7 +22,7 @@ It simplifies dependency injection setup by scanning all loaded assemblies for c
 Install the package via .NET CLI:
 
 ```bash
-dotnet add package AspNetCore.AutoServiceRegistration
+dotnet add package AutoServiceRegistration.AspNetCore
 ```
 
 Alternatively, add a project reference to your ASP.NET Core application.
@@ -35,7 +35,7 @@ Alternatively, add a project reference to your ASP.NET Core application.
 
    ```csharp
    // add using directive
-   using AspNetCore.AutoServiceRegistration;
+   using AutoServiceRegistration.AspNetCore;
    
    var builder = WebApplication.CreateBuilder(args);
    
