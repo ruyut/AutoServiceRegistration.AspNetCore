@@ -8,6 +8,10 @@
 AspNetCore.AutoServiceRegistration is a library for automatically registering services in ASP.NET Core applications.
 It simplifies dependency injection setup by scanning all loaded assemblies for classes that implement specific marker interfaces, and then registering them with the corresponding service lifetime.
 
+For more details, visit the related blog post:
+[AutoServiceRegistration.AspNetCore Example](https://www.ruyut.com/2025/02/AutoServiceRegistration.AspNetCore.html)
+(written in Traditional Chinese).
+
 ## Features
 
 - **Automatic Service Registration**: Scans assemblies to automatically register services that implement designated interfaces.
